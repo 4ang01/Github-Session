@@ -13,7 +13,7 @@ struct SwiftUIView: View {
         Text("Hello, Eve")
         Text("Hello, Dorami")
         Text("Hello, Lucas")
-        Text("Hello, pie")
+        Text("Hello, Geunyeop")
     }
 }
 
