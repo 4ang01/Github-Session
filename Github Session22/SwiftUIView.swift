@@ -10,6 +10,10 @@ import SwiftUI
 struct SwiftUIView: View {
     var body: some View {
         Text("Hello, Khaki")
+        Text("Hello, Eve")
+        Text("Hello, Dorami")
+        Text("Hello, Lucas")
+        Text("Hello, pie")
     }
 }
 
