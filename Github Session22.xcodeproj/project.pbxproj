@@ -12,6 +12,7 @@
 		BE85DFF42BD1384300AC72B7 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE85DFF32BD1384300AC72B7 /* Item.swift */; };
 		BE85DFF62BD1384300AC72B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE85DFF52BD1384300AC72B7 /* Assets.xcassets */; };
 		BE85DFF92BD1384300AC72B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE85DFF82BD1384300AC72B7 /* Preview Assets.xcassets */; };
+		BE85E0002BD13AEC00AC72B7 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE85DFFF2BD13AEC00AC72B7 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		BE85DFF32BD1384300AC72B7 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		BE85DFF52BD1384300AC72B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE85DFF82BD1384300AC72B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BE85DFFF2BD13AEC00AC72B7 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 		BE85DFEE2BD1384300AC72B7 /* Github Session22 */ = {
 			isa = PBXGroup;
 			children = (
+				BE85DFFF2BD13AEC00AC72B7 /* SwiftUIView.swift */,
 				BE85DFEF2BD1384300AC72B7 /* Github_Session22App.swift */,
 				BE85DFF12BD1384300AC72B7 /* ContentView.swift */,
 				BE85DFF32BD1384300AC72B7 /* Item.swift */,
@@ -142,6 +145,7 @@
 			files = (
 				BE85DFF22BD1384300AC72B7 /* ContentView.swift in Sources */,
 				BE85DFF42BD1384300AC72B7 /* Item.swift in Sources */,
+				BE85E0002BD13AEC00AC72B7 /* SwiftUIView.swift in Sources */,
 				BE85DFF02BD1384300AC72B7 /* Github_Session22App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
